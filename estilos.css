@@ -8,7 +8,7 @@ body {
     color: #fff;
 }
 .main-image {
-    background: url("forest.jpg");
+    background: url ("forest.jpg");
     background-position: center bottom;
     background-size: cover;
     width: 100%;
